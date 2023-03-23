@@ -4,13 +4,19 @@ import { Box, BoxProps } from '@ntbatista-ui/react'
 export default {
   title: 'Surfaces/Box',
   component: Box,
-
   args: {
     children: (
       <>
         <span>Test element</span>
       </>
     ),
+  },
+  argTypes: {
+    children: {
+      control: {
+        type: null,
+      },
+    },
   },
 } as Meta<BoxProps>
 
