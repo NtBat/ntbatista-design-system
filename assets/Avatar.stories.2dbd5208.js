@@ -1,0 +1,2 @@
+import{A as t}from"./index.1eb05de2.js";import"./index.a3d1ca67.js";import"./iframe.cc7e1106.js";import"./index.efd5c992.js";import"./jsx-runtime.3d8a2ac4.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/ntbat.png",alt:"Nathan Batista"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},n=["Primary","WithFallback"];export{c as Primary,m as WithFallback,n as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.2dbd5208.js.map
